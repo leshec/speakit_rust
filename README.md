@@ -1,7 +1,7 @@
 # speakit
 Practice Italian pronounciation: Search italian text and list words containing a substring such as "ce"
 
-I wanted to practice sounds in reasonable common or not completely random italian words. 
+I wanted to practice sounds in reasonably common or not completely random italian words. 
 Pronounciation is a key thing to get started with Italian.
 
 To use it:
@@ -46,6 +46,6 @@ TODO:
 
 1. Make an executable with default better source file. Although this "works" for what I need.
 2. Make an executable that takes a text source file name as an argument. Can add flags for number of words etc. 
-3. Make a simple webpage to search and get results 
+3. Make a simple webpage to search and get results.
 
 
