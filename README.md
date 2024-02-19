@@ -34,6 +34,12 @@ necessario \
 semplice \
 fece \
 
+Alternatively, git clone repo and run `cargo build`. You will need to have a "data.txt" file containing your text in the same folder as the binary.
+
+Then run `./speakit_rust` on command line. 
+
+See below todo list.
+
 Note: 
 
 Replace data.txt with whatever text file you want to use and put it in the project root. 
