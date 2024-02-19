@@ -32,7 +32,7 @@ cerca \
 faceva \
 necessario \
 semplice \
-fece \
+fece 
 
 Alternatively, git clone repo and run `cargo build`. You will need to have a "data.txt" file containing your text in the same folder as the binary.
 
